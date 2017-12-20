@@ -79,7 +79,7 @@ theme: next
 deploy:
   type: git
   repository: git@github.com:hyike/hyike.github.io.git
-  branch: develop
+  branch: master
 
 sitemap:
     path: sitemap.xml
